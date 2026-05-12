@@ -1,0 +1,18 @@
+{
+  "$schema": "https://rcade.dev/manifest.schema.json",
+  "name": "test-demo-game",
+  "display_name": "test-demo-game",
+  "description": "test-demo-game",
+  "visibility": "public",
+  "authors": [
+    {
+      "display_name": "Frank Chiarulli"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "@rcade/input-classic",
+      "version": "1.0.0"
+    }
+  ]
+}
